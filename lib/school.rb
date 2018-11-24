@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 require 'pry'
 
+=======
+>>>>>>> 77001c44b15e7faf33b63d9253b05be22e6fbad3
 class School
   def initialize(school_name)
     @school = school_name
@@ -31,6 +34,10 @@ class School
   def roster
     @schools_roster
   end
+<<<<<<< HEAD
 end
 
 # binding.pry
+=======
+end
+>>>>>>> 77001c44b15e7faf33b63d9253b05be22e6fbad3
